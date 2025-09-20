@@ -19,9 +19,7 @@
 
 <h3 align="center">See My Projects:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/konstantinos-sofronas-161521101/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="[https://www.youtube.com/channel/UCDyv2STOk7SU8_eNOPkvbCw](https://www.youtube.com/channel/UCQgEEH787_D4JJgRTbQ7itw)" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" height="30" width="30" /></a>
-<a href="https://www.instagram.com/sofron_photography" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="30" width="30" /></a>
 
 </p>
 
