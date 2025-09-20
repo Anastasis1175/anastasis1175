@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm Anastasis Apostolidis </h1>
 <h3 align="center">I love creating programs for fun or for my use then uploading them on GitHub</h3>
 <p>
