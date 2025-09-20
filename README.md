@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Anastasis1175/anastasis1175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm Anastasis Apostolidis </h1>
 <h3 align="center">I love creating programs for fun or for my use then uploading them on GitHub</h3>
 <p>
@@ -16,8 +13,7 @@
 Website</a>
 🏳️‍🌈 Pronouns: He/They
 </p>
-
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anastasis1175&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pouyamaroufi" /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anastasis1175&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pouyamaroufi" /></p> -->
 
 
 <h3 align="center">See My Projects:</h3>
