@@ -1,14 +1,14 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm Anastasis Apostolidis </h1>
 <h3 align="center">I love creating programs for fun or for my use then uploading them on GitHub</h3>
 <p>
-🔭 I’m currently working on ...
-🌱 I’m currently learning: 3D Modelling Software
-👯 I’m looking to collaborate with @sofronis
-🤔 I’m looking for help with my website
-💬 Ask me about PYTHON❤️
+🔭 I’m currently working on ...<br>
+🌱 I’m currently learning: 3D Modelling Software<br>
+👯 I’m looking to collaborate with @sofronis<br>
+🤔 I’m looking for help with my website<br>
+💬 Ask me about PYTHON❤️<br>
 📫 How to reach me: Info on my
 <a href="https://anastasis1175.github.io">
-Website</a>
+Website</a><br>
 🏳️‍🌈 Pronouns: He/They
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anastasis1175&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pouyamaroufi" /></p> -->
