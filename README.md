@@ -107,21 +107,23 @@ src="https://en.m.wikipedia.org/wiki/File:Verse_Programming_Language_Logo.jpeg" 
 <img
 src="https://en.m.wikipedia.org/wiki/File:DF_Logo_Compact_RGB.png" alt="dataflex"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Vala_Logo_New.svg" alt="vala"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vala_Logo_New.svg/242px-Vala_Logo_New.svg.png" alt="vala"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:V_Logo_SVG.svg" alt="v"/>
+src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/242px-Wolfram_Language_Logo_2016.svg.png" alt="v"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:WebAssembly_Logo.svg" alt="wa"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/250px-WebAssembly_Logo.svg.png" alt="wa"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Wolfram_Language_Logo_2016.svg" alt="wolfram"/>
+src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/242px-Wolfram_Language_Logo_2016.svg.png" alt="wolfram"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Logomark_Xojo_Company.svg" alt="xojo"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logomark_Xojo_Company.svg/280px-Logomark_Xojo_Company.svg.png" alt="xojo"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Xtend-logo-c.png" alt="xtend"/>
+src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Xtend-logo-c.png" alt="xtend"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Z_Shell_Logo_Color_Vertical.svg" alt="zshell"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z_Shell_Logo_Color_Vertical.svg/330px-Z_Shell_Logo_Color_Vertical.svg.png" alt="zshell"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Zig_logo_2020.svg" alt="zig"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Zig_logo_2020.svg/500px-Zig_logo_2020.svg.png" alt="zig"/>
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eth-diamond-rainbow.png/330px-Eth-diamond-rainbow.png" alt="viper"/>
 
 </p>
 
