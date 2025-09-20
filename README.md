@@ -38,7 +38,7 @@ Website</a><br>
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="30" height="30"/> 
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="30" height="30"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:ActionScript_icon.png" alt="as"/>
+src="https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png" alt="as"/>
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/>
     <img
 src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="40" height="40"
@@ -47,33 +47,33 @@ src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="4
 <img
 src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Batch_file_icon.png" alt="cmd" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png" alt="cmd" width="32" height="32"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Modern_AutoHotkey_Logo_(no_text).svg" alt="ahk" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" alt="ahk" width="31" height="10.5"/>
 <img
 src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" alt="asm" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Autoitlogo.png" alt="autolt" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/en/2/22/Autoitlogo.png" alt="autolt" width="26.25" height="9"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Gnu-bash-logo.svg" alt="bash" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="54" height="22.75"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:C--_logo.svg" alt="c--" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/8/82/C--_logo.svg" alt="c--" width="38.25" height="43"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:GameMaker_Logo.svg" alt="gamemaker" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/en/4/4b/GameMaker_Logo.svg" alt="gamemaker" width="62.5" height="14.375"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Godot_logo.svg" alt="godot" />
+src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Godot_logo.svg" alt="godot" width="99.875" height="40.375" />
 <img
-src="https://en.m.wikipedia.org/wiki/File:Go_Logo_Blue.svg" alt="go" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="64" height="23.875"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Jscript_icon.gif" alt="jscript" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/en/e/e8/Jscript_icon.gif" alt="jscript" width="32" height="32"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Kotlin_logo_(2021-present).svg" alt="kotlin" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kotlin_logo_%282021-present%29.svg" alt="kotlin" width="64" height="13.875"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg" alt="lua" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="75" height="75"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Mercury_(programming_language)_logo.jpg" alt="mercury"/>
+src="https://upload.wikimedia.org/wikipedia/en/2/21/Mercury_%28programming_language%29_logo.jpg" alt="mercury" width="81.75" height="20"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Netwide_Assembler.svg" alt="nasm" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" alt="nasm" width="63" height="37"/>
 <img
 src="https://en.m.wikipedia.org/wiki/File:Gnu-octave-logo.svg" alt="octavegnu" width="40" height="40"/>
 <img
