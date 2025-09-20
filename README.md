@@ -27,8 +27,8 @@ Website</a><br>
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
+    <img src="https://www.svgrepo.com/show/306704/scratch.svg" alt="scratch" width="30" height="30"/>
+    <img src="https://upload.vectorlogo.zone/logos/markdown-here/images/3d4ad827-7afb-4c69-a875-32db89d3f03f.svg" alt="md" width="30" height="30"/> 
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="30" height="30"/> 
     <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="30" height="30"/> 
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="30" height="30"/> 
