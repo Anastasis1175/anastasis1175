@@ -5,6 +5,7 @@
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm Anastasis Apostolidis </h1>
 <h3 align="center">I love creating programs for fun or for my use then uploading them on GitHub</h3>
+## Small list
 🔭 I’m currently working on ...
 🌱 I’m currently learning: 3D Modelling Software
 👯 I’m looking to collaborate with @sofronis
