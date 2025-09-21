@@ -17,7 +17,7 @@ Website</a><br>
 
 <h3 align="center">See My Projects:</h3>
 <p align="center">
-<a href="[https://www.youtube.com/channel/UCDyv2STOk7SU8_eNOPkvbCw](https://www.youtube.com/channel/UCQgEEH787_D4JJgRTbQ7itw)" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" height="30" width="30" /></a>
+<a href="[https://www.youtube.com/@wowthefurry](https://www.youtube.com/@wowthefurry)" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" height="30" width="30" /></a>
 
 </p>
 
@@ -25,21 +25,21 @@ Website</a><br>
 
 
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>
-    <img src="https://www.svgrepo.com/show/306704/scratch.svg" alt="scratch" width="30" height="30"/>
-    <img src="https://upload.vectorlogo.zone/logos/markdown-here/images/3d4ad827-7afb-4c69-a875-32db89d3f03f.svg" alt="md" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="30" height="30"/> 
-    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/306704/scratch.svg" alt="scratch" width="40" height="40"/>
+    <img src="https://upload.vectorlogo.zone/logos/markdown-here/images/3d4ad827-7afb-4c69-a875-32db89d3f03f.svg" alt="md" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> 
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="30" height="40"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png" alt="as"/>
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/>
+src="https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png" alt="as" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
     <img
 src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="40" height="40"
     <img
@@ -49,7 +49,7 @@ src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height=
 <img
 src="https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png" alt="cmd" width="32" height="32"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" alt="ahk" width="31" height="10.5"/>
+src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" alt="ahk" width="35" height="14.5"/>
 <img
 src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" alt="asm" width="40" height="40"/>
 <img
