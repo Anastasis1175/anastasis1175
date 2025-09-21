@@ -75,55 +75,53 @@ src="https://upload.wikimedia.org/wikipedia/en/2/21/Mercury_%28programming_langu
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" alt="nasm" width="63" height="37"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Gnu-octave-logo.svg" alt="octavegnu" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="octavegnu" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:OpenCL_logo.svg" alt="opencl" />
+src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg" alt="opencl" width="64"height="28.625"/>
 <img
 src="https://i.ibb.co/C3fdLhMx/1758382430038.png" alt="pdp" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Perl-logo.svg" alt="perl" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg" alt="perl" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:PowerShell_Core_6.0_icon.png" alt="ps" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="ps" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Dotql.png" alt=".ql"/>
+src="https://upload.wikimedia.org/wikipedia/en/b/b4/Dotql.png" alt=".ql"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:R_logo.svg" alt="r" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="r" width="72.4" height="56.1"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Ruby_logo.svg" alt="ruby" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="ruby" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:SYCL_logo.svg" alt="sycl"/>
+src="https://upload.wikimedia.org/wikipedia/commons/1/12/SYCL_logo.svg" alt="sycl"width="64"height="28"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Swift_(programing_language)_logo.png" alt="swift"/>
+src="https://upload.wikimedia.org/wikipedia/en/8/86/Swift_%28programing_language%29_logo.png" alt="swift"width="47.5"height="20.75"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Typescript.svg" alt="ts" width="40" height="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="ts" width="40" height="40"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Tynker_logo.png" alt="tynker"/>
+src="https://upload.wikimedia.org/wikipedia/en/5/54/Tynker_logo.png" alt="tynker"width="37.5"height="9.375"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Unreal_Engine_Logo_(new_typeface).svg" alt="ue"/>
+src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg" alt="ue"width="49.3"height="59.9"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:Verse_Programming_Language_Logo.jpeg" alt="verse"/>
+src="https://upload.wikimedia.org/wikipedia/en/c/c2/Verse_Programming_Language_Logo.jpeg" alt="verse"width="81.25"height="76.75"/>
 <img
-src="https://en.m.wikipedia.org/wiki/File:DF_Logo_Compact_RGB.png" alt="dataflex"/>
+src="https://upload.wikimedia.org/wikipedia/commons/3/36/DF_Logo_Compact_RGB.png" alt="dataflex"width="62.5"height="12"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vala_Logo_New.svg/242px-Vala_Logo_New.svg.png" alt="vala"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/242px-Wolfram_Language_Logo_2016.svg.png" alt="v"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/250px-WebAssembly_Logo.svg.png" alt="wa"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/250px-WebAssembly_Logo.svg.png" alt="wa" width="40" height="40"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/242px-Wolfram_Language_Logo_2016.svg.png" alt="wolfram"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logomark_Xojo_Company.svg/280px-Logomark_Xojo_Company.svg.png" alt="xojo" width="40" height="40"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logomark_Xojo_Company.svg/280px-Logomark_Xojo_Company.svg.png" alt="xojo"/>
+src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Xtend-logo-c.png" alt="xtend"width="49.5"height="13"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Xtend-logo-c.png" alt="xtend"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z_Shell_Logo_Color_Vertical.svg/330px-Z_Shell_Logo_Color_Vertical.svg.png" alt="zshell"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z_Shell_Logo_Color_Vertical.svg/330px-Z_Shell_Logo_Color_Vertical.svg.png" alt="zshell"width="44"height="41.375"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Zig_logo_2020.svg/500px-Zig_logo_2020.svg.png" alt="zig"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eth-diamond-rainbow.png/330px-Eth-diamond-rainbow.png" alt="viper"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eth-diamond-rainbow.png/330px-Eth-diamond-rainbow.png" alt="viper" width="44.875" height="74.875"/>
 
 </p>
 
