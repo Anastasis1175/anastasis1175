@@ -9,7 +9,7 @@
 📫 How to reach me: Info on my
 <a href="https://anastasis1175.github.io">
 Website</a><br>
-🏳️‍🌈 Pronouns: He/Him
+Pronouns: He/Him
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anastasis1175&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats" /></p>
