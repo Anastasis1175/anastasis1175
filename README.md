@@ -9,10 +9,10 @@
 📫 How to reach me: Info on my
 <a href="https://anastasis1175.github.io">
 Website</a><br>
-🏳️‍🌈 Pronouns: He/They
+🏳️‍🌈 Pronouns: He/Him(They)
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anastasis1175&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pouyamaroufi" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anastasis1175&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats" /></p>
 
 
 <h3 align="center">See My Projects:</h3>
@@ -103,34 +103,21 @@ src="https://upload.wikimedia.org/wikipedia/en/5/54/Tynker_logo.png" alt="tynker
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg" alt="ue"width="49.3"height="59.9"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/en/c/c2/Verse_Programming_Language_Logo.jpeg" alt="verse"width="81.25"height="76.75"/>
-<img
 src="https://upload.wikimedia.org/wikipedia/commons/3/36/DF_Logo_Compact_RGB.png" alt="dataflex"width="62.5"height="12"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vala_Logo_New.svg/242px-Vala_Logo_New.svg.png" alt="vala"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/242px-Wolfram_Language_Logo_2016.svg.png" alt="v"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/250px-WebAssembly_Logo.svg.png" alt="wa" width="40" height="40"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logomark_Xojo_Company.svg/280px-Logomark_Xojo_Company.svg.png" alt="xojo" width="40" height="40"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Xtend-logo-c.png" alt="xtend"width="49.5"height="13"/>
-<img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z_Shell_Logo_Color_Vertical.svg/330px-Z_Shell_Logo_Color_Vertical.svg.png" alt="zshell"width="44"height="41.375"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Zig_logo_2020.svg/500px-Zig_logo_2020.svg.png" alt="zig"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eth-diamond-rainbow.png/330px-Eth-diamond-rainbow.png" alt="viper" width="44.875" height="74.875"/>
+
 
 </p>
 
 <h3 align="center">Programming Tools & Editors:</h3>
 <p align="center">
     <img
-src="https://images.seeklogo.com/logo-png/45/1/visual-studio-icon-2022-logo-png_seeklogo-453471.png" alt="visual_studio"
+src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="thonny"
 width="40" height="40"/>
-    <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="pycharm" width="40" height="40"/>
+    <img src="https://picx.zhimg.com/v2-cafbbbf7cc97d6f020abf59229cd947c_720w.jpg?source=172ae18b" alt="nvim" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsc" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/>
     <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="android_studio" width="40" height="40"/> 
