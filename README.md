@@ -39,7 +39,6 @@ Pronouns: He/Him
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="30" height="40"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png" alt="as" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
     <img
 src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="40" height="40"
     <img
@@ -63,15 +62,7 @@ src="https://upload.wikimedia.org/wikipedia/en/4/4b/GameMaker_Logo.svg" alt="gam
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Godot_logo.svg" alt="godot" width="99.875" height="40.375" />
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="64" height="23.875"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/en/e/e8/Jscript_icon.gif" alt="jscript" width="32" height="32"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kotlin_logo_%282021-present%29.svg" alt="kotlin" width="64" height="13.875"/>
-<img
 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="75" height="75"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/en/2/21/Mercury_%28programming_language%29_logo.jpg" alt="mercury" width="81.75" height="20"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" alt="nasm" width="63" height="37"/>
 <img
@@ -81,29 +72,19 @@ src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg" alt="o
 <img
 src="https://i.ibb.co/C3fdLhMx/1758382430038.png" alt="pdp" width="40" height="40"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg" alt="perl" width="40" height="40"/>
-<img
 src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="ps" width="40" height="40"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/en/b/b4/Dotql.png" alt=".ql"/>
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="r" width="72.4" height="56.1"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="ruby" width="40" height="40"/>
-<img
 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/1/12/SYCL_logo.svg" alt="sycl"width="64"height="28"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/en/8/86/Swift_%28programing_language%29_logo.png" alt="swift"width="47.5"height="20.75"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="ts" width="40" height="40"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/en/5/54/Tynker_logo.png" alt="tynker"width="37.5"height="9.375"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg" alt="ue"width="49.3"height="59.9"/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/3/36/DF_Logo_Compact_RGB.png" alt="dataflex"width="62.5"height="12"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/250px-WebAssembly_Logo.svg.png" alt="wa" width="40" height="40"/>
 <img
